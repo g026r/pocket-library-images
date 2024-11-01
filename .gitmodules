@@ -1,0 +1,15 @@
+[submodule "sega"]
+	path = sega
+	url = git@github.com:g026r/pocket-gg-library-images.git
+[submodule "lynx"]
+	path = lynx
+	url = git@github.com:g026r/pocket-lynx-library-images.git
+[submodule "pce"]
+	path = pce
+	url = git@github.com:g026r/pocket-pce-library-images.git
+[submodule "game boy"]
+	path = game boy
+	url = git@github.com:g026r/pocket-gameboy-library-images.git
+[submodule "neogeo"]
+	path = neogeo
+	url = git@github.com:g026r/pocket-neogeo-library-images.git
